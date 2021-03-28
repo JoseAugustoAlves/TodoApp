@@ -1,6 +1,13 @@
 # todo
 
-A new Flutter project.
+Esse projeto foi feito, através de curso realizado no balta.io.
+
+#Certificado
+https://balta.io/certificados/ccf09e32-a048-4373-a778-d1e0a27b615e
+
+
+[Certificado de conclusão _ balta.io.pdf](https://github.com/JoseAugustoAlves/TodoApp/files/6218050/Certificado.de.conclusao._.balta.io.pdf)
+
 
 ## Getting Started
 
