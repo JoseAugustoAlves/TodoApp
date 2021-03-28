@@ -114,7 +114,7 @@ class _HomePageState extends State<HomePage> {
             key: Key(item.title),
             background: Container(
               color: Colors.red.withOpacity(0.5),
-              child: Text("Excluir"),
+              child: Text("Excluindo"),
             ),
             onDismissed: (direction) {
               remove(index);
